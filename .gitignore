@@ -1,0 +1,11 @@
+/venv
+/Abdel/Etape1_Activite1/
+.idea
+venv
+
+*.pyc
+Marie Laure/django/projet/projet/settings.py
+Ulys/django/apnter/apnter_front/node_modules
+*.pyc
+
+tmp*
